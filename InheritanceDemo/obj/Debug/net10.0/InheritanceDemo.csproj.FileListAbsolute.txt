@@ -1,0 +1,14 @@
+C:\Users\DELL\dcit318-assignment2-22144124\InheritanceDemo\bin\Debug\net10.0\InheritanceDemo.exe
+C:\Users\DELL\dcit318-assignment2-22144124\InheritanceDemo\bin\Debug\net10.0\InheritanceDemo.deps.json
+C:\Users\DELL\dcit318-assignment2-22144124\InheritanceDemo\bin\Debug\net10.0\InheritanceDemo.runtimeconfig.json
+C:\Users\DELL\dcit318-assignment2-22144124\InheritanceDemo\bin\Debug\net10.0\InheritanceDemo.dll
+C:\Users\DELL\dcit318-assignment2-22144124\InheritanceDemo\bin\Debug\net10.0\InheritanceDemo.pdb
+C:\Users\DELL\dcit318-assignment2-22144124\InheritanceDemo\obj\Debug\net10.0\InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\dcit318-assignment2-22144124\InheritanceDemo\obj\Debug\net10.0\InheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\DELL\dcit318-assignment2-22144124\InheritanceDemo\obj\Debug\net10.0\InheritanceDemo.AssemblyInfo.cs
+C:\Users\DELL\dcit318-assignment2-22144124\InheritanceDemo\obj\Debug\net10.0\InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\dcit318-assignment2-22144124\InheritanceDemo\obj\Debug\net10.0\InheritanceDemo.dll
+C:\Users\DELL\dcit318-assignment2-22144124\InheritanceDemo\obj\Debug\net10.0\refint\InheritanceDemo.dll
+C:\Users\DELL\dcit318-assignment2-22144124\InheritanceDemo\obj\Debug\net10.0\InheritanceDemo.pdb
+C:\Users\DELL\dcit318-assignment2-22144124\InheritanceDemo\obj\Debug\net10.0\InheritanceDemo.genruntimeconfig.cache
+C:\Users\DELL\dcit318-assignment2-22144124\InheritanceDemo\obj\Debug\net10.0\ref\InheritanceDemo.dll
