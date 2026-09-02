@@ -1,0 +1,14 @@
+C:\Users\DELL\dcit318-assignment2-22144124\InterfaceDemo\bin\Debug\net10.0\InterfaceDemo.exe
+C:\Users\DELL\dcit318-assignment2-22144124\InterfaceDemo\bin\Debug\net10.0\InterfaceDemo.deps.json
+C:\Users\DELL\dcit318-assignment2-22144124\InterfaceDemo\bin\Debug\net10.0\InterfaceDemo.runtimeconfig.json
+C:\Users\DELL\dcit318-assignment2-22144124\InterfaceDemo\bin\Debug\net10.0\InterfaceDemo.dll
+C:\Users\DELL\dcit318-assignment2-22144124\InterfaceDemo\bin\Debug\net10.0\InterfaceDemo.pdb
+C:\Users\DELL\dcit318-assignment2-22144124\InterfaceDemo\obj\Debug\net10.0\InterfaceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\dcit318-assignment2-22144124\InterfaceDemo\obj\Debug\net10.0\InterfaceDemo.AssemblyInfoInputs.cache
+C:\Users\DELL\dcit318-assignment2-22144124\InterfaceDemo\obj\Debug\net10.0\InterfaceDemo.AssemblyInfo.cs
+C:\Users\DELL\dcit318-assignment2-22144124\InterfaceDemo\obj\Debug\net10.0\InterfaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\dcit318-assignment2-22144124\InterfaceDemo\obj\Debug\net10.0\InterfaceDemo.dll
+C:\Users\DELL\dcit318-assignment2-22144124\InterfaceDemo\obj\Debug\net10.0\refint\InterfaceDemo.dll
+C:\Users\DELL\dcit318-assignment2-22144124\InterfaceDemo\obj\Debug\net10.0\InterfaceDemo.pdb
+C:\Users\DELL\dcit318-assignment2-22144124\InterfaceDemo\obj\Debug\net10.0\InterfaceDemo.genruntimeconfig.cache
+C:\Users\DELL\dcit318-assignment2-22144124\InterfaceDemo\obj\Debug\net10.0\ref\InterfaceDemo.dll
