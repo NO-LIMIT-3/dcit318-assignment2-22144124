@@ -1,0 +1,14 @@
+C:\Users\DELL\dcit318-assignment2-22144124\AbstractDemo\bin\Debug\net10.0\AbstractDemo.exe
+C:\Users\DELL\dcit318-assignment2-22144124\AbstractDemo\bin\Debug\net10.0\AbstractDemo.deps.json
+C:\Users\DELL\dcit318-assignment2-22144124\AbstractDemo\bin\Debug\net10.0\AbstractDemo.runtimeconfig.json
+C:\Users\DELL\dcit318-assignment2-22144124\AbstractDemo\bin\Debug\net10.0\AbstractDemo.dll
+C:\Users\DELL\dcit318-assignment2-22144124\AbstractDemo\bin\Debug\net10.0\AbstractDemo.pdb
+C:\Users\DELL\dcit318-assignment2-22144124\AbstractDemo\obj\Debug\net10.0\AbstractDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\dcit318-assignment2-22144124\AbstractDemo\obj\Debug\net10.0\AbstractDemo.AssemblyInfoInputs.cache
+C:\Users\DELL\dcit318-assignment2-22144124\AbstractDemo\obj\Debug\net10.0\AbstractDemo.AssemblyInfo.cs
+C:\Users\DELL\dcit318-assignment2-22144124\AbstractDemo\obj\Debug\net10.0\AbstractDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\dcit318-assignment2-22144124\AbstractDemo\obj\Debug\net10.0\AbstractDemo.dll
+C:\Users\DELL\dcit318-assignment2-22144124\AbstractDemo\obj\Debug\net10.0\refint\AbstractDemo.dll
+C:\Users\DELL\dcit318-assignment2-22144124\AbstractDemo\obj\Debug\net10.0\AbstractDemo.pdb
+C:\Users\DELL\dcit318-assignment2-22144124\AbstractDemo\obj\Debug\net10.0\AbstractDemo.genruntimeconfig.cache
+C:\Users\DELL\dcit318-assignment2-22144124\AbstractDemo\obj\Debug\net10.0\ref\AbstractDemo.dll
